@@ -31,7 +31,7 @@ function backToHome() {
         </ul>
         <h3>2024-12-19 更新</h3>
         <ul>
-            <li>(<n-a href="https://github.com/yemaster/vstc/commits?author=Zhehan-Z" target="_blank">@Zhehan-Z</n-a>) 增加了存档的频率，放置存档丢失 Commit <n-a href="https://github.com/yemaster/vstc/commit/3a30aafc30b7d777f075683ea1614ce5e72ed3fe" target="_blank">3a30aaf</n-a></li>
+            <li>(<n-a href="https://github.com/yemaster/vstc/commits?author=Zhehan-Z" target="_blank">@Zhehan-Z</n-a>) 增加了存档的频率，防止存档丢失 Commit <n-a href="https://github.com/yemaster/vstc/commit/3a30aafc30b7d777f075683ea1614ce5e72ed3fe" target="_blank">3a30aaf</n-a></li>
         </ul>
         <h3>2024-06-18 更新</h3>
         <ul>
